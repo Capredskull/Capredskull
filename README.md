@@ -1,7 +1,6 @@
 <h1 align="center">🚀 Namaste World, I'm Samyog!</h1>
 <h3 align="center">A Nepali code wizard who took a wrong turn and ended up debugging in Deutschland 🇳🇵 → 🇩🇪</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=capredskull&label=Profile%20stalkers&color=0e75b6&style=flat" alt="capredskull" /> </p>
 
 - 🔭 Currently juggling more projects than a circus performer
 
