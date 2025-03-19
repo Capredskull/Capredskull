@@ -1,15 +1,15 @@
-<h1 align="center">🚀 Namaste World, I'm Samyog!</h1>
-<h3 align="center">A Nepali code wizard who got lost en route to Germany and is now debugging code (but not printers) 🇳🇵 → 🇩🇪</h3>
+<h1 align="center">Hi!!I'm Samyog!</h1>
+<h3 align="center">I got lost on the way and ended in germany on a container ship 🇳🇵 → 🇩🇪</h3>
+<h3 align="center">But wait you may think, there's no sea in nepal how did you get into a container ship? Idk</h3>
 
-- 🔭 Currently juggling more projects than a Netflix binge-watcher
-
+- 🔭 Currently juggling more projects than a circus juggler
 - 🌱 Learning Go, because clearly I didn’t have enough programming languages to forget the syntax of
 
 - 👯 Open to collaborating on anything that doesn’t involve summoning the Dark Lord to fix printers
 
-- 🎓 Pursuing MCS.IT in Germany, because computer science in one language wasn't challenging enough
+- 🎓 Pursuing MCS.IT in Germany, because regular IT wasn't challenging enough
 
-- ⚡ Fun fact: I speak 3 human languages, but my real mother tongue is `console.log()`
+- ⚡ Fun fact: I speak 4 human languages, but my real mother tongue is `console.log()`
 
 ---
 
