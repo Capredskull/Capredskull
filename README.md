@@ -1,6 +1,7 @@
 <h1 align="center">Hi!!I'm Samyog!</h1>
 <h3 align="center">I got lost on the way and ended in germany on a container ship 🇳🇵 → 🇩🇪</h3>
-<h3 align="center">But wait you may think, there's no sea in nepal how did you get into a container ship? Idk</h3>
+<h4 align="center">But wait you may think, there's no sea in nepal how did you get into a container ship?</h4>
+<p> Well smart ass If you are that smart why don't you help me solve this mystery?</p>
 
 - 🔭 Currently juggling more projects than a circus juggler
 - 🌱 Learning Go, because clearly I didn’t have enough programming languages to forget the syntax of
